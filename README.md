@@ -14,7 +14,7 @@ This project listens for keyboard events on Windows using the `winim` library in
 Before running the project, ensure you have the following:
 
 - [Nim](https://nim-lang.org/) installed.
-- [winim](https://github.com/nikivazou/winim) library for Windows API bindings.
+- [winim](https://github.com/khchen/winim) library for Windows API bindings.
 
 ## Installation
 
